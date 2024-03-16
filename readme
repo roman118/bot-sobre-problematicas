@@ -1,0 +1,22 @@
+BOT SOLCUIONADOR DE PROBLEMAS
+
+Este es un bot que te da informacion y urls de problematicas de 
+cambio climatico, calentamiento global y contaminacion.
+
+asegurate de poner tu token de discord!!
+
+hay varias funciones, el on_message fue uno de los escensiales para
+poder hcaer que el bot lea el mensaje y te de una respuesta automatica
+
+los urls haciendo que el bot sea el host tmb fue un reto y ademas poner
+"bonito" los htmls estubo complicado
+
+ahora les enseño el proyecto, es bastante simple *le enseña el proyecto*
+
+descarga discord y flask, es lo mas escencial
+
+si tienen algun comentario me pueden hablar en discord: mapacheweon75
+
+en conclucion es un bot bastante simple que da urls para problematicas
+ya dichas anteriormente
+
